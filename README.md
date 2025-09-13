@@ -9,5 +9,6 @@
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,eclipse,java,js,nodejs,react,express,jest,anaconda,bitbucket,devto,latex,linux,ps,postman,supabase,sklearn,ubuntu,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,eclipse,java,js,nodejs,react,express,jest,anaconda,bitbucket,devto,latex,linux,ps,postman,supabase,sklearn,ubuntu,vscode,)](https://skillicons.dev)(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png)
 
+## Studying
