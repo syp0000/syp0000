@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## Hey 👋, This is Siyeon Park
+[![Gmail Badge](https://img.shields.io/badge/-sxp1129@case.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sxp1129@case.edu)](mailto:sxp1129@case.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/-siyeon-park-714215276-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siyeon-park-714215276/)](https://www.linkedin.com/in/siyeon-park-714215276/) [![Github Badge](https://img.shields.io/badge/-syp0000-grey?style=flat&logo=github&logoColor=white&link=https://github.com/syp0000/)](https://www.github.com/syp0000/) <p align='left'>I’m a Data Science student at Case Western Reserve University with experience across data engineering, geospatial analysis, and applied machine learning. My work spans research, internships, and personal projects, from building energy diagnostics tools and water asset management dashboards to creating full-stack applications like PantryAI and predictive models like Box Office Earnings Prediction.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=syp0000 alt=syp0000 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=syp0000&show_icons=true&include_all_commits=true)](https://github.com/syp0000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syp0000&layout=compact)](https://github.com/syp0000/github-readme-stats)
+
 <!--
 **syp0000/syp0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
