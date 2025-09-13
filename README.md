@@ -3,21 +3,7 @@
 ## Hey 👋, This is Siyeon Park
 [![Linkedin Badge](https://img.shields.io/badge/-siyeon-park-714215276-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siyeon-park-714215276/)](https://www.linkedin.com/in/siyeon-park-714215276/) [![Github Badge](https://img.shields.io/badge/-syp0000-grey?style=flat&logo=github&logoColor=white&link=https://github.com/syp0000/)](https://www.github.com/syp0000/) <p align='left'>I’m a Data Science student at Case Western Reserve University with experience across data engineering, geospatial analysis, and applied machine learning. My work spans research, internships, and personal projects, from building energy diagnostics tools and water asset management dashboards to creating full-stack applications like PantryAI and predictive models like Box Office Earnings Prediction.</p>
 ---
-```bash
-/Siyeon $ cat skills.py
-{
-  "type": "hard skills",
-  "categories": [
-    {
-      "name": "Languages",
-      "items": ["Python", "R", "SQL", "JavaScript", "Java"]
-    },
-    {
-      "name": "Tools",
-      "items": ["QGIS", "Supabase", "PySpark", "Docker", "Supabase", "HBase", "Linux", "Pandas"]
-    }
-  ]
-}
+
 <!--
 **syp0000/syp0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
