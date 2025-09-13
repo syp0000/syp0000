@@ -11,6 +11,4 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,eclipse,java,js,nodejs,react,express,jest,anaconda,bitbucket,devto,latex,linux,ps,postman,supabase,sklearn,ubuntu,vscode,)](https://skillicons.dev)
 ## Studying
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/></code>
-</div>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/>
