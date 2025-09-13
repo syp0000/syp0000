@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&duration=4500&pause=600&color=4E9FE5&width=520&lines=Hello%2C+it's+Siyeon+Park;Data+Engineering+%C2%B7+Data+Science" alt="typing banner"/>
 </a>
 
+<div>
+  <img src="./aboutme.gif" alt="About Me Terminal GIF"/>
+</div>
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,eclipse,java,js,nodejs,react,express,jest,anaconda,bitbucket,devto,latex,linux,ps,postman,supabase,sklearn,ubuntu,vscode,)](https://skillicons.dev)
 
