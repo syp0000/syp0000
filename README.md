@@ -1,7 +1,31 @@
 ## Hi there 👋
 
-## Hey 👋, This is Siyeon Park
-[![Linkedin Badge](https://img.shields.io/badge/-siyeon-park-714215276-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siyeon-park-714215276/)](https://www.linkedin.com/in/siyeon-park-714215276/) [![Github Badge](https://img.shields.io/badge/-syp0000-grey?style=flat&logo=github&logoColor=white&link=https://github.com/syp0000/)](https://www.github.com/syp0000/) <p align='left'>I’m a Data Science student at Case Western Reserve University with experience across data engineering, geospatial analysis, and applied machine learning. My work spans research, internships, and personal projects, from building energy diagnostics tools and water asset management dashboards to creating full-stack applications like PantryAI and predictive models like Box Office Earnings Prediction.</p>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/-●●●-2e3440?style=flat-square&labelColor=2e3440&color=bf616a&label=" alt="dots"/>
+  
+  <pre style="background-color:#2e3440;color:#eceff4;padding:20px;border-radius:10px;text-align:left;max-width:600px;overflow:auto;">
+<span style="color:#a3be8c">/siyeon $</span> cat skills.py
+{
+  "type": "hard skills",
+  "categories": [
+    {
+      "name": "Languages",
+      "items": ["Python", "R", "SQL", "JavaScript", "Java", "C/C++"]
+    },
+    {
+      "name": "Data Engineering",
+      "items": ["Supabase", "PySpark", "HBase", "Airflow", "Docker", "SLURM"]
+    },
+    {
+      "name": "GIS",
+      "items": ["QGIS", "QField", "GeoPandas", "Folium"]
+    }
+  ]
+}
+  </pre>
+</div>
+
 ---
 
 <!--
