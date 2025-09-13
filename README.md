@@ -7,6 +7,7 @@
 <div>
   <img src="./aboutme.gif" alt="About Me Terminal GIF"/>
 </div>
+
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,eclipse,java,js,nodejs,react,express,jest,anaconda,bitbucket,devto,latex,linux,ps,postman,supabase,sklearn,ubuntu,vscode,)](https://skillicons.dev)
 
