@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I build tools engineers actually use and PMs actually trust. My work sits between three groups that usually don't talk to each other: the engineers writing the code, the operators running the floor, and the leadership making the calls. I translate between them, and I ship.
+I build tools engineers actually use and PMs actually trust. My work sits between three groups that usually don't talk to each other: the engineers writing the code and the hardware, the operators running the floor, and the leadership making the calls. I translate between them, and I ship.
 
 Right now I'm a Customer Service Engineer at LSP USA, where I deployed a React + AWS reporting tool that cut daily documentation time by 35% for a 50-person manufacturing team.
 
