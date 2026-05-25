@@ -107,14 +107,6 @@ Right now I'm a Customer Service Engineer at LSP USA, where I deployed a React +
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syp0000&show_icons=true&hide_border=true&title_color=4E9FE5&icon_color=87CEEB&text_color=ffffff&bg_color=0d1117" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syp0000&layout=compact&hide_border=true&title_color=4E9FE5&text_color=ffffff&bg_color=0d1117" alt="langs" height="160"/>
-</p>
-
----
 
 ## 📬 Get in touch
 
