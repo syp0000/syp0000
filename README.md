@@ -103,7 +103,10 @@ Right now I'm a Customer Service Engineer at LSP USA, where I deployed a React +
 
 ## 📚 Currently learning
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer%20(in%20progress)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
+</p>
 
 ---
 
