@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Phoenix,%20AZ-87CEEB?style=flat-square&labelColor=2d3748" alt="location"/>
   <img src="https://img.shields.io/badge/🎓-CWRU%20'26-87CEEB?style=flat-square&labelColor=2d3748" alt="school"/>
-  <img src="https://img.shields.io/badge/💼-Open%20to%20TPM%20%26%20APM%20Roles-4E9FE5?style=flat-square&labelColor=2d3748" alt="status"/>
+  <img src="https://img.shields.io/badge/💼-Open%20to%20TPM%20%26%DE%20Roles-4E9FE5?style=flat-square&labelColor=2d3748" alt="status"/>
 </p>
 
 ---
